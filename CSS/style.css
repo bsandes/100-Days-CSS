@@ -1,0 +1,14 @@
+body {
+    font-family: 'Lexend', sans-serif;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    margin: 200px 0px;
+}
+
+.info a {
+    color: #76b900;
+    text-decoration: none;
+}
